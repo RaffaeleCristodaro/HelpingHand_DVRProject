@@ -25,6 +25,15 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "SpeechToLife",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1f24b827dd4c44a99aa2c9eda2d73479",
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
 		}
 	],
 	"TargetPlatforms": [
