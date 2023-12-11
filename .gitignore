@@ -73,5 +73,9 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# Folders for Victorian House Assets
+Content/Victorian_House/*
+
+
 # Folders for GitIgnore
 Content/GitIgnore/*
