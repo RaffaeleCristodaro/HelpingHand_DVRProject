@@ -76,6 +76,8 @@ DerivedDataCache/*
 # Folders for Victorian House Assets
 Content/Victorian_House/*
 
+# Folders for EPMasterMaterials Assets
+Content/EPMasterMaterials*
 
 # Folders for GitIgnore
 Content/GitIgnore/*
