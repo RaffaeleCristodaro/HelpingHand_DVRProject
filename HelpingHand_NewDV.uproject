@@ -28,6 +28,15 @@
 			]
 		},
 		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
+		},
+		{
+			"Name": "MiVRy",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ab5c386a17f04bd387c3f719a8577613"
+		},
+		{
 			"Name": "OculusXR",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/8313d8d7e7cf4e03a33e79eb757bccba",
@@ -37,13 +46,14 @@
 			]
 		},
 		{
-			"Name": "NiagaraFluids",
-			"Enabled": true
+			"Name": "RuntimeAudioImporter",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/81fd278e318e4235a028d3fdf46bf036"
 		},
 		{
-			"Name": "MiVRy",
+			"Name": "RuntimeSpeechRecognizer",
 			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ab5c386a17f04bd387c3f719a8577613"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/2b33311abdb048819664a6cfe0bbd90d"
 		}
 	],
 	"TargetPlatforms": [
