@@ -81,3 +81,6 @@ Content/EPMasterMaterials*
 
 # Folders for GitIgnore
 Content/GitIgnore/*
+
+# Folders for SonySoundsLibrary
+Content/SonySoundsLibrary/*
